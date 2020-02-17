@@ -40,7 +40,7 @@ project(':react-native-android-location-services-dialog-box').projectDir = new F
 ```gradle
 dependencies {
    ...
-   compileOnly project(':react-native-android-location-services-dialog-box')
+   compile project(':react-native-android-location-services-dialog-box')
 }
 ```
 
